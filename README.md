@@ -83,7 +83,6 @@ I'm a Systems Engineering student at Universidad de Antioquia, currently residin
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebastianSaldarriagaC1&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" alt="SebastianSaldarriagaC1's Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianSaldarriagaC1&theme=material-palenight&hide_border=true" alt="SebastianSaldarriagaC1's Streak" />
 </div>
 
