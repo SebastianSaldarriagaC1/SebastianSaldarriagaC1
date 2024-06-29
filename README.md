@@ -7,7 +7,7 @@
 ## 👩‍💻 About Me
 
 I'm a Systems Engineering student at Universidad de Antioquia, currently residing in Medellín, Colombia.  
-- 🔭 I am still in the early stages of my career and haven't gained industry experience yet, but I am deeply passionate about backend programming aiming to become a Fullstack Programmer.  
+- 🔭 I am still in the early stages of my career and haven't gained industry experience yet, but I am deeply passionate about backend programming aiming to become a Fullstack Developer.  
 - 📚 I've worked with a variety of programming languages, including Java, JavaScript/TypeScript, and Kotlin. My love for technology continues to drive my enthusiasm for learning and growing in this ever-evolving field.  
 - ⚡ In my free time, I enjoy expanding my knowledge by exploring new languages and technologies. Besides my tech interests, I am an avid gamer and sports enthusiast, with a particular love for football and basketball.
 
