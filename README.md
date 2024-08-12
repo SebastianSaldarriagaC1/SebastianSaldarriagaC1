@@ -40,41 +40,13 @@ I'm a Systems Engineering student at Universidad de Antioquia, currently residin
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-      </td>
-      <td align="center">
-        <p></p>
-      </td>
-      <td align="center">
-        <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo" />
-      </td>
-      <td align="center">
-        <p></p>
-      </td>
-      <td align="center">
-        <p></p>
       </td>
     </tr>
   </table>
